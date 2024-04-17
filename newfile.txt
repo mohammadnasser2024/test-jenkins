@@ -1,8 +1,6 @@
 testing
 
 
-add new line
-
 another line
 
 new line
