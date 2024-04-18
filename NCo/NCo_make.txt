@@ -6,5 +6,3 @@ make nco now
 new line
 
 Hello 
-
-Hello again
