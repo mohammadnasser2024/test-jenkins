@@ -1,7 +1,4 @@
 test
 
-new line
-
-make nco
 
 make nco now
