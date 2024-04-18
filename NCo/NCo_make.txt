@@ -5,12 +5,6 @@ make nco now
 
 new line
 
-Hello World
-
-Hello Jenkins
-
-Hello Github
-
 Hello 
 
 Hello again
