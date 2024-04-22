@@ -10,5 +10,3 @@ test
 new line
 
 test
-
-new line
